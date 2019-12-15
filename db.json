@@ -1,0 +1,16 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "title": "Rejuntamix"
+    },
+    {
+        "id": 2,
+        "title": "Clarus"
+      }
+  ],
+
+  "profile": {
+    "name": "typicode"
+  }
+}
