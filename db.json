@@ -10,6 +10,28 @@
       }
   ],
 
+  "ligacoesDoDia": [
+    {
+      "title": "Pendentes",
+      "numero": 10
+    },
+    {
+      "title": "Resolvidos",
+      "numero": 30
+      }
+  ],
+
+  "ligacoesDoMes": [
+    {
+      "title": "Pendentes",
+      "numero": 20
+    },
+    {
+      "title": "Resolvidos",
+      "numero": 50
+      }
+  ],
+
   "profile": {
     "name": "typicode"
   }
