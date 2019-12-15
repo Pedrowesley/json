@@ -89,36 +89,6 @@
       "protocolo": 2019012312039,
       "data":"12/09/2019",
       "status":"resolvido"
-    },
-    {
-      "cliente": "Metalurgica",
-      "protocolo": 20190193,
-      "data":"12/09/2019",
-      "status":"resolvido"
-    },
-    {
-      "cliente": "Clarus",
-      "protocolo": 2018012,
-      "data":"12/09/2019",
-      "status":"resolvido"
-    },
-    {
-      "cliente": "Mil Madeiras",
-      "protocolo": 2018012309,
-      "data":"12/09/2019",
-      "status":"Pendente"
-    },
-    {
-      "cliente": "Rejuntamix",
-      "protocolo": 2018012310,
-      "data":"12/09/2019",
-      "status":"Pendente"
-    },
-    {
-      "cliente": "Clarus",
-      "protocolo": 2018012312039,
-      "data":"12/09/2019",
-      "status":"resolvido"
     }
   ]
 }
