@@ -5,9 +5,36 @@
       "title": "Rejuntamix"
     },
     {
-        "id": 2,
-        "title": "Clarus"
-      }
+      "id": 2,
+      "title": "Clarus"
+    }
+  ],
+  
+  "totalLigacoesSemestre": [
+    {
+      "title": "Janeiro",
+      "numero": 100
+    },
+    {
+      "title": "Fevereiro",
+      "numero": 200
+    },
+    {
+      "title": "Março",
+      "numero": 50
+    },
+    {
+      "title": "Abril",
+      "numero": 33
+    },
+    {
+      "title": "Maio",
+      "numero": 122
+    },
+    {
+      "title": "Junho",
+      "numero": 150
+    }
   ],
 
   "ligacoesDoDia": [
@@ -18,7 +45,7 @@
     {
       "title": "Resolvidos",
       "numero": 30
-      }
+    }
   ],
 
   "ligacoesDoMes": [
@@ -29,9 +56,8 @@
     {
       "title": "Resolvidos",
       "numero": 50
-      }
+    }
   ],
-
   "profile": {
     "name": "typicode"
   }
