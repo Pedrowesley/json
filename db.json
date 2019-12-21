@@ -90,5 +90,18 @@
       "data":"12/09/2019",
       "status":"resolvido"
     }
+  ],
+
+  "anotacoes": [  
+    {
+      "id": 1,
+      "titulo": "Exemplo 1",
+      "texto": "Testando a API de cards exemplo 1"
+    },
+    {
+      "id": 1,
+      "titulo": "Exemplo 2",
+      "texto": "Testando a API de cards exemplo 2"
+    }
   ]
 }
