@@ -2,11 +2,13 @@
   "clientes": [  
     {
       "id": 1,
-      "title": "Rejuntamix"
+      "razao_social": "Rejuntamix",
+      "nome_fantasia":"Rejuntamix"
     },
     {
       "id": 2,
-      "title": "Clarus"
+      "razao_social": "Clarus",
+      "nome_fantasia":"Clarus"
     }
   ],
   
